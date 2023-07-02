@@ -65,8 +65,6 @@ Backend Technologies
 
 ### 🌱 I’m exploring - Next JS and TypeScript.
 
-### 👯 I’m looking - To collaborate on open source projects.
-
 ### 🤔 I’m trying - To being a great developer of the world.
 
 <br />
