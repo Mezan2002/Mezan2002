@@ -1,4 +1,4 @@
-<a href="" class="absolute">
+<a href="">
 <img src="https://i.ibb.co/Qd85Z2W/Card.png" />
 </a>
 
