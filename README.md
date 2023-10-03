@@ -1,4 +1,4 @@
-[![MasterHead](https://i.ibb.co/Qd85Z2W/Card.png)](https://mezanurrahman-portfolio.netlify.app/)
+[(https://i.ibb.co/Qd85Z2W/Card.png)](https://mezanurrahman-portfolio.netlify.app/)
 
 ### Md. Mezanur Rahman (Frontend Developer)
 
