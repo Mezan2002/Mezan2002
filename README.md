@@ -1,6 +1,6 @@
-<a href="">
-<img src="https://i.ibb.co/Qd85Z2W/Card.png" />
-</a>
+<div align="left">
+<a href="https://app.daily.dev/mezan2002"><img src="https://i.ibb.co/Qd85Z2W/Card.png" /></a>
+</div>
 
 ### Md. Mezanur Rahman (Frontend Developer)
 
