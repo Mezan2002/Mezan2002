@@ -1,5 +1,5 @@
 <div align="left">
-<a href="https://app.daily.dev/mezan2002"><img src="https://i.ibb.co/Qd85Z2W/Card.png"/></a>
+<a href="https://app.daily.dev/mezan2002"><img src="[https://i.ibb.co/Qd85Z2W/Card.png](https://github.com/Mezan2002/Mezan2002/blob/main/Card.svg)"/></a>
 </div>
 
 ### Md. Mezanur Rahman (Frontend Developer)
