@@ -1,4 +1,6 @@
-[(https://i.ibb.co/Qd85Z2W/Card.png)](https://mezanurrahman-portfolio.netlify.app/)
+<p align="center">
+  <img src="https://i.ibb.co/Qd85Z2W/Card.png" alt="mezan2002"  />
+</p>
 
 ### Md. Mezanur Rahman (Frontend Developer)
 
