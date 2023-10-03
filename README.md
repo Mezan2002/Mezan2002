@@ -58,7 +58,7 @@ Backend Technologies
 ## :eyes: Current overview
 
 <div align="left">
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<a href="https://app.daily.dev/mezan2002"><img src="https://api.daily.dev/devcards/019238bbc9f2440787c94c466fac5e8f.png?r=q2z" width="400" alt="Md. Mezanur Rahman's Dev Card"/></a>
 </div>
 
 ### 🔭 I’m working - In Alter Learning.
