@@ -61,10 +61,12 @@ Backend Technologies
 <a href="https://app.daily.dev/mezan2002"><img src="https://api.daily.dev/devcards/019238bbc9f2440787c94c466fac5e8f.png?r=q2z" width="400" alt="Md. Mezanur Rahman's Dev Card"/></a>
 </div>
 
-### 🔭 I’m working - In Alter Learning.
+### 🔭 I’m working - In Fiverr as a freelancer but I am open to work in a company.
 
-### 🌱 I’m exploring - Next JS and TypeScript.
+### 🌱 I’m exploring - Prisma and Next JS.
 
 ### 🤔 I’m trying - To being a great developer of the world.
+
+### ❤️ Hobby - I love to play games in my free time and watch new UI/UX designs.
 
 <br />
