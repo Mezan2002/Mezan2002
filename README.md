@@ -2,8 +2,6 @@
 <img src="https://github.com/Mezan2002/Mezan2002/blob/main/Card.svg" />
 </a>
 
-### Md. Mezanur Rahman (Frontend Developer)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mezan2002&label=Profile%20views&color=0e75b6&style=flat" alt="mezan2002" /> </p>
 
 ## :chart_with_upwards_trend: Current Stats
