@@ -1,17 +1,12 @@
 <a href="https://mezanur-rahman-portfolio.vercel.app/">
 <img src="https://github.com/Mezan2002/Mezan2002/blob/main/Card.svg" />
 </a>
+
 <br />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mezan2002&label=Profile%20views&color=0e75b6&style=flat" alt="mezan2002" /> </p>
 
 ## :chart_with_upwards_trend: Current Stats
-
-<br />
-<p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=mir-hussain&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
-</p>
-
 <br />
 <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=mezan2002&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" alt="mezan2002"  />
