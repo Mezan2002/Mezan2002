@@ -6,7 +6,7 @@
 ## :chart_with_upwards_trend: Current Stats
 <br />
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mezan2002&theme=react&hide_border=true&background=0D1117&stroke=60FFFF&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" alt="mezan2002"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mezan2002&theme=react&hide_border=true&background=0D1117&stroke=60FFFF&fire=60FFFF&sideLabels=60FFFF&currStreakNum=60FFFF&ring=60FFFF&currStreakLabel=60FFFF&sideNums=00F0FF" alt="mezan2002"  />
 </p>
 
 ## :mailbox: Reach me out
