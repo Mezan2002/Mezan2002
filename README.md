@@ -4,7 +4,7 @@
 
 <br />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mezan2002&label=Profile%20views&color=0e75b6&style=flat" alt="mezan2002" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mezan2002&label=Profile%20views&color=0e75b6&style=flat" alt="mezan2002" /> </p>
 
 ## :chart_with_upwards_trend: Current Stats
 <br />
