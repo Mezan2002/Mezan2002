@@ -3,7 +3,7 @@
 </a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mezan2002&label=Profile%20views&color=0e75b6&style=flat" alt="mezan2002" /> </p>
 
-<div>
+<div align="center">
 <a href="https://app.daily.dev/mezan2002"><img src="https://api.daily.dev/devcards/019238bbc9f2440787c94c466fac5e8f.png?r=6h1" width="400" alt="Md. Mezanur Rahman's Dev Card"/></a>
 </div>
 
